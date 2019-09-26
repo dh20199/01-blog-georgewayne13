@@ -1,4 +1,5 @@
 html {
+    font-family:"roboto", sans-serif
     background-color: #ccc;
     box-sizing: border-box;
 }
@@ -8,8 +9,8 @@ html {
 }
 
 main {
-    border: 2px black solid;
-    padding: 10px;                      
+    border: 10px black solid;
+    padding: 5px;                      
 }
 
 header {
@@ -23,7 +24,7 @@ article img {
 }
 
 footer {
-    background-color: #dfebfb;
+    background-color: black solid;
     min-height: 5rem;
     /* please don't change these values; you will have 
        plenty of chance to play with flex in the next problem */
